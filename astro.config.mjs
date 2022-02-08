@@ -8,6 +8,9 @@
 
 // @ts-check
 export default /** @type {import('astro').AstroUserConfig} */ ({
+	buildOptions: {
+		site: 'https://docsfordev-sarah11918.vercel.app/',
+	},
 	renderers: [
 		// Enable the Preact renderer to support Preact JSX components.
 		'@astrojs/renderer-preact',
