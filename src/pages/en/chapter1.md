@@ -1,7 +1,7 @@
 ---
 title: Chapter 1
 description: Understanding your Audience
-layout: ../../layouts/MainLayout.astro
+layout: ../../layouts/ChapterLayout.astro
 ---
 
 

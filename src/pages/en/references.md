@@ -1,7 +1,7 @@
 ---
 title: Related References
 description: Links shared by Book Club participants
-layout: ../../layouts/MainLayout.astro
+layout: ../../layouts/ChapterLayout.astro
 ---
 [Divio Documentation System](https://documentation.divio.com/)
 
