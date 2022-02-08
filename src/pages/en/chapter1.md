@@ -5,7 +5,7 @@ layout: ../../layouts/ChapterLayout.astro
 ---
 
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Q2: Negative feedback is often a sign that the user is coming from an &quot;unexpected&quot; (by the docs) place/context, bc new knowledge can only be built on older knowledge. I (try to!) see it as an opportunity to think of new backgrounds/needs our users might have. <a href="https://twitter.com/hashtag/DevEdBookClub?src=hash&amp;ref_src=twsrc%5Etfw">#DevEdBookClub</a></p>&mdash; Sarah Rainsberger (@sarah11918) <a href="https://twitter.com/sarah11918/status/1461524026111799298?ref_src=twsrc%5Etfw">November 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">Q2: Negative feedback is often a sign that the user is coming from an &quot;unexpected&quot; (by the docs) place/context, bc new knowledge can only be built on older knowledge. I (try to!) see it as an opportunity to think of new backgrounds/needs our users might have. <a href="https://twitter.com/hashtag/DevEdBookClub?src=hash&amp;ref_src=twsrc%5Etfw">#DevEdBookClub</a></p>&mdash; Sarah Rainsberger (@sarah11918) <a href="https://twitter.com/sarah11918/status/1461524026111799298?ref_src=twsrc%5Etfw">November 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Consider: why are you writing this documentation in the first place??

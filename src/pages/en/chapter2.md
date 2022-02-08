@@ -3,7 +3,7 @@ title: Chapter 2
 description: Planning your documentation
 layout: ../../layouts/ChapterLayout.astro
 ---
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">A2. I think just in general, the sheer AMOUNT of info/guidance it feels like you want to provide can feel overwhelming when planning. I appreciated the reminder in Ch 2 to recognize, and/but to not feel the need to overemphasize possible edge cases. <a href="https://twitter.com/hashtag/DevEdBookClub?src=hash&amp;ref_src=twsrc%5Etfw">#DevEdBookClub</a></p>&mdash; Sarah Rainsberger (@sarah11918) <a href="https://twitter.com/sarah11918/status/1466596486930739207?ref_src=twsrc%5Etfw">December 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">A2. I think just in general, the sheer AMOUNT of info/guidance it feels like you want to provide can feel overwhelming when planning. I appreciated the reminder in Ch 2 to recognize, and/but to not feel the need to overemphasize possible edge cases. <a href="https://twitter.com/hashtag/DevEdBookClub?src=hash&amp;ref_src=twsrc%5Etfw">#DevEdBookClub</a></p>&mdash; Sarah Rainsberger (@sarah11918) <a href="https://twitter.com/sarah11918/status/1466596486930739207?ref_src=twsrc%5Etfw">December 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## PLANNING QUESTIONS
 1. Who is your target audience?
