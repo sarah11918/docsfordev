@@ -1,5 +1,5 @@
 ---
 title: Bonjour!
-description: Je parle francais
+description: 'Je parle français'
 layout: ../../layouts/ChapterLayout.astro
 ---
