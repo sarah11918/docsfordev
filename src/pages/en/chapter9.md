@@ -53,7 +53,7 @@ Quality of language. It uses language that successfully communicates the necessa
 
 ## Goals and Metrics
 
- Don't forget that you and your user different sets of goals! Your reader's goals are smaller, and more specific.
+ Don't forget that you and your user have different sets of goals! Your reader's goals are smaller, and more specific.
 
 | Org Goals | User Goals |
 |-----:|:-----:|
