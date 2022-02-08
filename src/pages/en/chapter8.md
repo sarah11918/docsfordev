@@ -15,7 +15,7 @@ Possible feedback mechanisms include:
 - create a "user council" (group of current/potential users who agree to provide feedback)
 - collect document "sentiment" e.g. "Was this helpful?" or "How do you feel about these docs?"
 
-Note: User feedback will often be *contextual* and you can't ignore the state they were in when visiting the docs. If they ame to the docs frustrated with a problem, you might be measuring their overall mood, not their reaction to the docs!
+Note: User feedback will often be *contextual* and you can't ignore the state they were in when visiting the docs. If they came to the docs frustrated with a problem, you might be measuring their overall mood, not their reaction to the docs!
 
 ## Convert feedback to action
 
