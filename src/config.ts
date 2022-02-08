@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Your Documentation Website',
-	description: 'Your website description.',
+	title: 'Sarah\'s Docs for Developers Note site',
+	description: 'A collection of notes from Dev Ed Book Club.',
 	defaultLanguage: 'en_US',
 };
 
@@ -9,11 +9,13 @@ export const OPEN_GRAPH = {
 		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
 		alt: 'astro logo on a starry expanse of space,' + ' with a purple saturn-like planet floating in the right foreground',
 	},
-	twitter: 'astrodotbuild',
+	twitter: 'sarah11918',
 };
 
 export const KNOWN_LANGUAGES = {
 	English: 'en',
+	French: 'fr',
+	Swedish: 'se',
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
@@ -45,5 +47,21 @@ export const SIDEBAR = {
 		{ text: 'Chapter 9', link: 'en/chapter9' },
 		{ text: 'Chapter 10', link: 'en/chapter10' },
 		{ text: 'Chapter 11', link: 'en/chapter11' },
+
+
+		{ text: 'Related Links', header: true },
+		{ text: 'references', link: 'en/references' },
+	],
+
+	fr: [
+		{ text: 'Section', header: true },
+		{ text: 'Introduction', link: 'fr/introduction' },
+		{text: 'Bonjour', link:'fr/bonjour' }
+	],
+
+	se:[
+		{ text: 'Sektion', header: true },
+		{ text: 'Introduction', link: 'se/introduction' },
+		{text: 'Hej Hej', link:'se/hej' },
 	],
 };

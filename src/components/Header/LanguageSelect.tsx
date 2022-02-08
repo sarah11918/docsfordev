@@ -3,6 +3,9 @@ import { h } from 'preact';
 import './LanguageSelect.css';
 import { KNOWN_LANGUAGES, langPathRegex } from '../../languages';
 
+
+console.log({KNOWN_LANGUAGES})
+
 const LanguageSelect: FunctionalComponent<{ lang: string }> = ({ lang }) => {
 	return (
 		<div class="language-select-wrapper">

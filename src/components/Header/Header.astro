@@ -9,15 +9,12 @@ import Search from './Search.tsx';
 
 const { currentPage } = Astro.props;
 const lang = currentPage && getLanguageFromURL(currentPage);
+console.log({KNOWN_LANGUAGE_CODES})
 ---
-<style>
-.sticky {
-	position: sticky;
-	top: 0;
-}
+
 <header>
 	<SkipToContent />
-	<nav class="nav-wrapper sticky" title="Top Navigation">
+	<nav class="nav-wrapper" title="Top Navigation">
 		<div class="menu-toggle">
 			<SidebarToggle client:idle />
 		</div>
