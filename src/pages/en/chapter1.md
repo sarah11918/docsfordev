@@ -10,13 +10,13 @@ layout: ../../layouts/ChapterLayout.astro
 
 Consider: why are you writing this documentation in the first place??
 
-You don’t just want your users to know something about your product/software, you want them to complete a set of tasks or change their behaviour in some way.
+You don't just want your users to know something about your product/software, you want them to complete a set of tasks or change their behaviour in some way.
 
 > **Consider the goal of DOCS (Business Goals)**
 >
 > (onboard new users to help them integrate w API, use the site..)
 >
-> *“Onboard new users to Corg.ly by helping them integrate with our API”*
+> *"Onboard new users to Corg.ly by helping them integrate with our API"*
 >
 > vs
 >
@@ -24,22 +24,23 @@ You don’t just want your users to know something about your product/software, 
 > 
 > (use your stuff, build something)
 >
-> *“Translate my dog’s barks into human speech”*
+> *"Translate my dog’s barks into human speech"*
 
 ## Identifying Users
-By their role (project manager, developer, system administrator)
-Level of experience (junior/senior? New to their roles?)
-Situation they’re in when they’re reading your documentation (4am emergencies?)
+By their 
+- role (project manager, developer, system administrator)
+- level of experience (junior/senior? New to their roles?)
+- situation they're in when they're reading your documentation (4am emergencies?)
 
-PRIORITIZE THE USERS WHO ARE MOST IMPORTANT FOR YOUR PRODUCT BUSINESS
-(Not every user is the same; you can’t meet every user’s need)
+PRIORITIZE THE USERS WHO ARE MOST IMPORTANT FOR YOUR PRODUCT/BUSINESS
+(Not every user is the same; you can't meet every user's need)
 
 For a DEVELOPER audience, consider:
-Developer skill
-Programming languages
-Developer environment
-Operating system
-Team role . . . .
+- Developer skill
+- Programming languages
+- Developer environment
+- Operating system
+- Team role . . .
 
 
 ## Outline User needs
@@ -48,13 +49,19 @@ Team role . . . .
 |--------------|:------:|
 | What is this product?<br>Will it solve my problem?<br>What features are available<br>How much does it cost?<br>How do I get started|  How do I authenticate against your API?<br>How do I use a specific feature?<br>How do I troubleshoot a specific problem?| 
 
-Validate your understand with DATA: analyze support tickets (look for themes), interviews, developer surveys (aim for a diverse audience, and ask specific, closed, optional, neutral q’s)
+Validate your understanding with DATA
 
-“The curse of knowledge” - cognitive bias assuming others have your knowledge (ie not being able to think from perspective of a beginner)
+- analyze support tickets (look for themes)
+- interviews 
+- developer surveys 
+
+(aim for a diverse audience, and ask specific, closed, optional, neutral questions)
+
+**"The curse of knowledge"** - cognitive bias assuming others have your knowledge (ie not being able to think from perspective of a beginner)
 
 ## **JOURNEY MAP** 
 
-*a diagram showing the path a user takes through a product or website while trying to accomplish a particular task*
+*A diagram showing the path a user takes through a product or website while trying to accomplish a particular task*
 
 1. Define the task the user is trying to accomplish
 2. List the channels a user may interact with (website, docs, repository, app itself…)
@@ -69,4 +76,6 @@ Validate your understand with DATA: analyze support tickets (look for themes), i
 - Log each step sequentially NOTING ANY GAP between the behaviour you EXPECT, and actual behaviour
 - Keep a tight scope to keep results actionable
 - Pick a user scenario with a clear beginning and end
-- CONSIDER: are these friction points that need fixing in your PRODUCT (typo, error message) or in your DOCS (instructions)?
+- CONSIDER: are these friction points that need fixing in your
+    - PRODUCT (typo, error message) or 
+    - in your DOCS (instructions)?
