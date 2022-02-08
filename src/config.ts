@@ -34,8 +34,9 @@ export const KNOWN_LANGUAGES = {
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
+
+		{ text: 'Chapters', header: true },
 		{ text: 'Chapter 1', link: 'en/chapter1' },
 		{ text: 'Chapter 2', link: 'en/chapter2' },
 		{ text: 'Chapter 3', link: 'en/chapter3' },
