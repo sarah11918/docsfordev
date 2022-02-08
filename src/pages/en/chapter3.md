@@ -16,10 +16,10 @@ You probably spent a lot of time setting up your **coding** environment, to writ
 
 YOU EXPERIMENTED UNTIL YOU FOUND YOUR COMFORT ZONE
 
-Set yourself up similarly for writing docs! Choose your writing tools as carfully as you choose your dev tools!
+Set yourself up similarly for writing docs! Choose your writing tools as carefully as you choose your dev tools!
 
 Don't forget to consider:
-- the format for your final content (eg if required output will Markdown, you need a Markdown editor)
+- the format for your final content (eg if required output will be Markdown, you need a Markdown editor)
 - the shareability of drafts for feedback/review (if you will need to collaborate, you'll need to find a tool that works for all collaborators)
 
 ## Write for Skimming
@@ -28,15 +28,15 @@ There are two fundamental, paradoxical truths
 1. Readers come to your docs looking for information.
 2. Readers read very little of what you wrote.
 
-Only when a reader has found what they are looking for do they sette in and read closely. Plan for this in your writing structure
+Only when a reader has found what they are looking for do they settle in and read closely. Plan for this in your writing structure
 
 ### Title
 
 - should summarize the GOAL for reading the doc (ie hint at *type* of documentation) and set appropriate EXPECTATIONS
 
     - "Tranlsating Dog Barks to Text" implies step-by-step
-    - "Audio Encoding and Sampling Rates" implies a reference/tech specs
-- consider what your reader needs to know and do to successfully complete the goal in the title 
+    - "Audio Encoding and Sampling Rates" implies reference/tech specs
+- consider what your reader needs to know and do in order to successfully complete the goal in the title 
 
 ### Headers
 - headers are signposts, and guide the reader when skimming
