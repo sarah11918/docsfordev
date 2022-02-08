@@ -37,28 +37,28 @@ The addition of visual content may affect site performance, loading speeds, netw
 
 Different types of diagrams are best for conveying different types of information.
 
-## Boxes and Arrows
+#### Boxes and Arrows
 
 - depict relationships, data flow
 - ensure minimal clutter
 - do not cross arrows!!
 
-## Flow Charts
+#### Flow Charts
 
 - guide the reader from start to finish
 - helpful for procedures with multiple steps, especial if choices are involved
 
-## Swim Lanes
+#### Swim Lanes
 
 - like a flow chart, but has different "lanes" for different users (junior/advanced; product owner/developer)
 
 
-### Labels
+##### Labels
 
 - "When in doubt, spell it out!"
 - Diagrams, code samples may also benefit from being labelled/annotated to explain structure/composition
 
-### SVG
+##### SVG
 
 - svg scales well for reading visual content on a variety of screen sizes
 
