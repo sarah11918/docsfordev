@@ -41,5 +41,5 @@ Start with the person who provided the MOST feedback (because it might pre-empti
 
 Remember: evaluate each piece of feedback (don't just take at face value); not every bit of feedback is helpful, useful, actionable, nor needs to be addressed
 
-**In the face of contradictory feedback, think of your user"**
+**In the face of contradictory feedback, think of your user**
 
