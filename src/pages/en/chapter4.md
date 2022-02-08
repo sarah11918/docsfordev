@@ -13,13 +13,13 @@ There are different editing "passes" for different purposes.
 
 - grammar, spelling
 - consistency of terms
-- content is accurate / steps are reproducibe
+- content is accurate / steps are reproducible
 
 ### Completeness
 
-- Not the same as "telling people everything"
+- not the same as "telling people everything"
 - it's just as easy to lose people with TOO MUCH info as it is with TOO LITTLE
-- examples aren't skipping steps
+- examples don't skip necessary steps
 
 ### Structure
 
@@ -29,17 +29,17 @@ There are different editing "passes" for different purposes.
 ### Clarity/Brevity
 
 - don't overwhelm the reader with too much
-- when editing, also consider bias and ablest language
+- when editing, also consider bias and ableist language
 
 ## How to Receive Feedback
 
 If others are editing your work, specify:
 - HOW you'd like feedback (comments in a document, separate notes, PR)
-- WHICH kind of editing pass you'd like, to manage expectations(it's OK to say,"Right now, please just look for obvious grammar/proofreading errors" if you're not in a position to receive other feedback)
+- WHICH KIND of editing pass you'd like, to manage expectations (it's OK to say,"Right now, please just look for obvious grammar/proofreading errors" if you're not in a position to receive other feedback)
 
-Start with the person who provided the MOST feedback (because you might pre-emptively address others' feedback)
+Start with the person who provided the MOST feedback (because it might pre-emptively address others' feedback)
 
-Remember: evaluate each piece of feedback (don't just take at face value); not every bit of feedback is helpful, useful, actionable, needs to be addressed
+Remember: evaluate each piece of feedback (don't just take at face value); not every bit of feedback is helpful, useful, actionable, nor needs to be addressed
 
 **In the face of contradictory feedback, think of your user"**
 
