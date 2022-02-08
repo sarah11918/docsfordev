@@ -57,7 +57,7 @@ Structure via headings:
 What are the QUICKEST explanations of:
 - What this service IS
 - What its core features DO
-- The SIMPLEST steps to install/user product
+- The SIMPLEST steps to install/use the product
 - The MOST IMPORTANT questions a new user will have
 - The COOL THINGS you can do with your service
 
