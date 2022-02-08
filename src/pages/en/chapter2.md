@@ -77,7 +77,7 @@ What are the QUICKEST explanations of:
 
 #### Tutorials
 
-**Tutorials teach users how to do something pre-planned through pre-defined example to walk-through**
+**Tutorials teach users how to do something pre-planned through a pre-defined example to walk-through**
 
 - Provides test environment & test data e.g. code playground
 - Doesn’t require any real code implementation
