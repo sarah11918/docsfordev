@@ -127,11 +127,11 @@ Reference documents tell users which actions produce which results
 - Document breaking changes, new versions…
 #### Changelog
 **List changes in chronological order including**:
-Previously supported versions, integrations or deprecated features
+- Previously supported versions, integrations or deprecated features
 - Name changes of parameters or important fields
 - A moved object or resource 
 #### Release Notes
-**Providex rich context TO USERS for changes in changelog**
+**Provide rich context TO USERS for changes in changelog**
 - Speak directly to the user
 - Here's what changed, here's why, here's how it used to be, here's how it's going to be
 - New features
@@ -143,8 +143,11 @@ Previously supported versions, integrations or deprecated features
 ### Consider the reader 
 
 Consider the current state and goal of the reader for each of these different types of docs.
+
 - "troubleshooting" readers want to QUICKLY FIX AN EXISTING PROBLEM and GET UNBLOCKED, not read a conceptual philosophy
+
 - explicit steps are not useful when simply FAMILIARIZING: reading more about your product, and trying to evaluate whether or not it’s something they want to use 
+
 - API reference is where devs expect to go when they are in the middle of BUILDING
 
 
