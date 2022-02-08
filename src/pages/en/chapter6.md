@@ -9,7 +9,7 @@ layout: ../../layouts/ChapterLayout.astro
 
 Visual content is a SUPPLEMENT to (not REPLACEMENT for) written documentation.
 
-(Fun fact! Uper case is more difficult to read because the letters are all the same basic size/shape with little variety in their dimensions. It's the variety of lower case letters that help with comprehension and easier reading.)
+(Fun fact! Upper case is more difficult to read because the letters are all the same basic size/shape with little variety in their dimensions. It's the variety of lower case letters that help with comprehension and easier reading.)
 
 Ineffective visual content interferes with the transmission of information due to a lack of:
 
